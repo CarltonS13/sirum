@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "npm start --prefix node_modules/development",
+    "test": "npm run --prefix node_modules/development test"
+  },
+  "dependencies": {
+    "development": "github:dscsa/development"
+  }
+}
