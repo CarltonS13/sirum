@@ -5,5 +5,20 @@
   },
   "dependencies": {
     "development": "github:dscsa/development"
-  }
+  },
+  "name": "sirum",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarltonS13/sirum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarltonS13/sirum/issues"
+  },
+  "homepage": "https://github.com/CarltonS13/sirum#readme"
 }
