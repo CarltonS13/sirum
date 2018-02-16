@@ -7,12 +7,9 @@ npm install dscsa/development
 unless thats not what you want to do?
 
 # as repositories to your git client and link to github
-I didn’t really understand what you meant by "git client" 
-so I created a new repository in the folder with the command line then uploaded it to github
-https://github.com/CarltonS13/sirum
-However I had to run :
-$ git submodule init
-$ git submodule update
+I didn’t really understand what you meant by "git client". So I created a new repository in the folder with the command line then uploaded it to github.
+However I had to run:  `$ git submodule init`
+`$ git submodule update`
 To register development, server, client, pouch, and csv as modules before I committed
 Now I can update sub modules by calling “git pull” in the submodule folder
 also for some reason I had to force the initial commit 
